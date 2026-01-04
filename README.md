@@ -97,10 +97,10 @@ statsmodels
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/username/tech-stock-analysis.git
-cd tech-stock-analysis
+git clone https://github.com/Surbhit1508/Stock_Price_Analysis.git
+cd Stock_Price_Analysis
 
-# Install dependencies
+# Install dependencies (only if requirements.txt exists)
 pip install -r requirements.txt
 ```
 
